@@ -192,5 +192,14 @@
       "icon": "fa-solid fa-laptop",
       "reference": "arne.ledet@ttu.edu"
     }
+  ],
+  "projects": [
+    {
+      "name": "Theta Functions as Borcherds Products",
+      "summary": "Investigation into when generalized theta functions can be represented as a Borcherds product. Use python scripting to quickly compute coefficients of the Fourier expansion of these functions.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2024-07-01",
+      "endDate": "T.B.D."
+    }
   ]
 }

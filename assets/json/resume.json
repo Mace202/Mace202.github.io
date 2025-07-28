@@ -195,12 +195,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Theta Functions",
+      "summary": "Theta functions as Borcherds product expansions. Classical theta functions can be expressed as infinite products, this work seeks to do the same for more general theta functions.",
+      "highlights": ["Theta Functions", "Borcherds Products", "Modular Forms"],
+      "startDate": "2024-07-01",
+      "endDate": "2027-01-01",
+      "url": "Mace202.github.io"
     }
   ]
 }

@@ -32,3 +32,5 @@ My name is Mason Springfield, and I am a mathematician specializing in number th
 You can find my contact information at the top of my CV page. My preferred method of contact is email, but I will also respond to calls/ texts.
 
 In my free time I enjoy reading, building models, and playing board/ video games.
+
+Pardon my mess as I get the site fully up and running!

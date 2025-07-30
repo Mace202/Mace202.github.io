@@ -180,17 +180,17 @@
     {
       "name": "Dr. Dermot McCarthy",
       "icon": "fa-solid fa-laptop",
-      "reference": "dermot.mccarthy@ttu.edu"
+      "reference": "Advisor, Committee Chair, TTU"
     },
     {
       "name": "Dr. Chris Monico",
       "icon": "fa-solid fa-laptop",
-      "reference": "c.monico@ttu.edu"
+      "reference": "Advisor, Committee Member, TTU"
     },
 	{
       "name": "Dr. Arne Ledet",
       "icon": "fa-solid fa-laptop",
-      "reference": "arne.ledet@ttu.edu"
+      "reference": "Advisor, Committee Member, TTU"
     }
   ],
   "projects": [
